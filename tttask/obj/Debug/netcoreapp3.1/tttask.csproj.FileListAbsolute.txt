@@ -1,0 +1,14 @@
+C:\Users\user\Documents\tttask\tttask\bin\Debug\netcoreapp3.1\tttask.exe
+C:\Users\user\Documents\tttask\tttask\bin\Debug\netcoreapp3.1\tttask.deps.json
+C:\Users\user\Documents\tttask\tttask\bin\Debug\netcoreapp3.1\tttask.runtimeconfig.json
+C:\Users\user\Documents\tttask\tttask\bin\Debug\netcoreapp3.1\tttask.runtimeconfig.dev.json
+C:\Users\user\Documents\tttask\tttask\bin\Debug\netcoreapp3.1\tttask.dll
+C:\Users\user\Documents\tttask\tttask\bin\Debug\netcoreapp3.1\tttask.pdb
+C:\Users\user\Documents\tttask\tttask\obj\Debug\netcoreapp3.1\tttask.csproj.AssemblyReference.cache
+C:\Users\user\Documents\tttask\tttask\obj\Debug\netcoreapp3.1\tttask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\tttask\tttask\obj\Debug\netcoreapp3.1\tttask.AssemblyInfoInputs.cache
+C:\Users\user\Documents\tttask\tttask\obj\Debug\netcoreapp3.1\tttask.AssemblyInfo.cs
+C:\Users\user\Documents\tttask\tttask\obj\Debug\netcoreapp3.1\tttask.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\tttask\tttask\obj\Debug\netcoreapp3.1\tttask.dll
+C:\Users\user\Documents\tttask\tttask\obj\Debug\netcoreapp3.1\tttask.pdb
+C:\Users\user\Documents\tttask\tttask\obj\Debug\netcoreapp3.1\tttask.genruntimeconfig.cache
